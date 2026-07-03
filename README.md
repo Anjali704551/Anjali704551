@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Bhati
 
-<!--
-**Anjali704551/Anjali704551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (AI & ML) Student
 
-Here are some ideas to get you started:
+💻 Passionate about Python, AI, Machine Learning and Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python
+- Machine Learning
+- Azure AI
+- Git & GitHub
+
+🚀 Looking for
+- Internship Opportunities
+- AI/ML Projects
+- Open Source Contributions
+
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+- GitHub
+
+## 📜 Certifications
+
+- Microsoft Azure AI Fundamentals (AI-901) *(Exam Scheduled)*
+- Microsoft Learn - Azure OpenAI Learning Modules
+
+## 📫 Connect with Me
+
+📧 Email: anjalibhati727@gmail.com
+
+⭐ Always learning and building new projects.
