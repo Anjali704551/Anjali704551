@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Anjali%20Bhati%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20(AI%20%20ML)%20Student%20|%20Aspiring%20AI%20&%20ML%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Anjali%20Bhati%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20(AI%20%20ML)%20Student%20|%20Aspiring%20AI%20%20ML%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=BCA+(Artificial+Intelligence+%26+Machine+Learning)+Student;Aspiring+AI+%26+ML+Developer;Learning+Python+%7C+ML+%7C+Full+Stack+Development;Passionate+About+Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&linesBCA+(Artificial+Intelligence+%26+Machine+Learning)+Student ;Aspiring+AI+%26+ML+Developer;Learning+Python+%7C+ML+%7C+Full+Stack+Development;Passionate+About+Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 </div>
