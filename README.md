@@ -100,6 +100,12 @@ me.say_hi()
 
 <br/>
 
+## 📜 Certifications
+
+- Microsoft Azure AI Fundamentals (AI-901) *(Exam Scheduled)*
+- Microsoft Learn - Azure OpenAI Learning Modules
+              ⭐ Always learning and building new projects.
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
