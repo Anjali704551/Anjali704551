@@ -104,7 +104,8 @@ me.say_hi()
 
 - Microsoft Azure AI Fundamentals (AI-901) *(Exam Scheduled)*
 - Microsoft Learn - Azure OpenAI Learning Modules
-              ⭐ Always learning and building new projects.
+
+  ⭐ Always learning and building new projects.
 
 ## 🏆 GitHub Trophies
 
